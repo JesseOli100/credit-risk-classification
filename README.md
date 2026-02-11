@@ -1,7 +1,13 @@
 # credit-risk-classification
 
+# Contact Info
+
+Want to hire me? Check out my LinkedIn here: https://www.linkedin.com/in/jesse-o-03476a102/
+
+Want to comission me for a project? Check out my Upwork profile here: https://www.upwork.com/freelancers/~0193f57dd84700cb81
+
 # Background
-In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+This is a ML-model that trains and evaluates based on loan risk. You’ll see a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 # Instructions
 The instructions for this Challenge are divided into the following subsections:
